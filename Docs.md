@@ -1,5 +1,5 @@
 # Xeno Bot Documentation
-Commands	- Add awesome custom commands to your server!
+Meme Commands	- See the dankest memes of them straight from reddit to the bot!
 
 Levels - Let your users gain XP and levels by participating in the chat!
 
