@@ -18,3 +18,5 @@ NSFW - Well... Its in the name
 Fun - Who doesn't like a tad bit of fun?
 
 Economy - Yes. I want to be rich!
+
+> And plenty more left for you discover 😯
